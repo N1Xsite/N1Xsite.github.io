@@ -20,6 +20,7 @@ input[type="checkbox"]:checked + div {
 
 body {
     margin: 10;
+    color: #a81c4f
 }
 
 div {
