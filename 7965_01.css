@@ -1,5 +1,7 @@
 a {
-    color: #987ceb;
+    color: #e93386;
+    
+    
 }
 div {
     -webkit-transition: all 0.5s linear;
@@ -14,17 +16,17 @@ input[type="checkbox"] {
 }
 
 input[type="checkbox"]:checked + div {
-    background: #ffb000;
-    color: #4cfa4c;
+    background: #0b004b;
 }
 
 body {
     margin: 10;
-    color: #a81c4f
+    color: #00f0ff;
+    background: #000000;
 }
 
 div {
-    position: absolute;
+	  position: absolute;
     width: 100%;
     height: 100%;
     z-index: -1;
